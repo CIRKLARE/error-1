@@ -1,5 +1,6 @@
 #!/bin/bash
 #shell script to solve E:sub-process /usr/bin/dpkg returned an error code (1)
+#colorful version
 
 mv /var/lib/dpkg/info/ /var/lib/dpkg/info_kali
 echo -e "\033[1;32m"
